@@ -9,7 +9,7 @@
         <img src="https://img.shields.io/discord/308323056592486420.svg"
             alt="chat on Discord"></a>
     <a href="https://twitter.com/intent/follow?screen_name=ElectracoinECA">
-        <img src="https://img.shields.io/twitter/follow/ElectracoinECA.svg?style=social"
+        <img src="https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow"
             alt="follow on Twitter"></a>
 </p>
 
