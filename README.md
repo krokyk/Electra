@@ -13,25 +13,24 @@
             alt="follow on Twitter"></a>
 </p>
 
-
-
 ### Mission
 Leverage blockchain technology and assist users for fast and secure transactions.
 We believe Blockchain is the future for many purposes such as data storage, payments and operations. Integration of Blockchain for our daily use leads to higher efficiency in applications.
 
 ### Fast, Today
-time is one of the key elements in our lives. Especially when it comes to financial transactions, lack of existing money transaction speed, companies or individual users are facing delays. This leads to a slowdown in activities. Electra offers a solution to cover such bad processes. Time is money, money is Electra.
+Time is one of the key elements in our lives. Especially when it comes to financial transactions, lack of existing money transaction speed, companies or individual users are facing delays. This leads to a slowdown in activities. Electra offers a solution to cover such bad processes. Time is money, money is Electra.
 
-Safe & Anonymous Security is another and very important key point on which today's world stands. By using Electra you can make secure payments be done in short periods of time, which gives confidence to the community.
+### Safe & Anonymous
+Security is another very important point on which today's world stands. By using Electra you can make secure payments be done, which gives confidence to the community.
 
-Decentralized Distributed applications are the future need for higher efficiency and cost reduction. Electra is your solution for decentralized Payments.
+### Decentralized, Distributed
+Applications are the future need for higher efficiency and cost reduction. Electra is your solution for decentralized Payments.
 
-Passive income Electra is a digital currency for POW & POS. POS allows you to earn and increase your investment 50% / year up to the total offer will be achieved. A high level of stakeout will add extra income if the value of Electra is protected by the total supply limits. This restriction also ensures possible inflation, so that the value of Electra may continue to increase in the future.
+### Efficiency
+Electra uses the NIST5 hash, which is chosen as the winning algorithm by the US Nation of Science competition. Combination of security and mining efficiency were the key points taken into account.
 
-Efficiency and type of algorithm Electra uses the NIST5 hash, which is chosen as the winning algorithm by the US Nation of Science competition. Combination of security and mining efficiency were the key points taken into account.
-
-## What is Electra?
+# What is Electra?
 Electra is a blockchain using the highly-secure and power efficient NIST5 algorithm. Combining temporary Proof-of-Work with high Proof-of-Stake, the Electra coin (ECA) is unique in its distribution. On June 16, 2017, Electra entered "Super Rewards Bonanza" stage for 24 hours (Blocks 11522-11810). During this time, 95% of the proof-of-work coins were mined. At block 11811, Electra swapped to Proof-of-Stake with an annual interest rate of 50% until the Electra supply reaches 30bil. Once 30bil ECA is reached, block rewards will be earned through transaction fees only. This created a gold-rush period, promoting the network (or was hoped to) and rapidly increasing the amount of ECA.
 
-## Why NIST5?
+# Why NIST5?
 Electra chose to use NIST5 as its hashing algorithm because it has been proven to be more secure and power efficient than other leading algorithms. NIST5 is a combination of the finalists and winner of the US National Institute of Standards and Technology Hash Function Competition(specifically BLAKE, Grøstl, JH, Keccak/SHA-3, and Skein. NIST5 was created fairly recently, and immediately saw use by other coins, but failed to see mainstream adoption.
